@@ -3,3 +3,5 @@ My first line in project
 Paris is the capital of France
 
 
+new line
+new line 2
